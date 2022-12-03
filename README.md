@@ -9,7 +9,7 @@ This repo includes the data file for the Xara Webdesigner 17 program.
 3. Open .web file with Xara webdesigner and edit the site.
 4. When satisfied with the edits, use File-Save.
 5. Then File-Export Website to folder 'exported website'.
-7. Push the master branch. This will upload the site to s3.
+7. Push the main branch. This will upload the site to s3.
 
 PLEASE NOTE: Changes cannot be merged from two people working at the same time. 
 
